@@ -1,0 +1,49 @@
+.back-link {
+  display: block;
+  margin-bottom: 1rem;
+  color: #333;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.form-title {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.form-control {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  outline: none;
+}
+
+.submit-btn {
+  background-color: #f3a847;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: #555;
+}
