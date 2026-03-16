@@ -96,7 +96,7 @@ function Dashboard() {
             <h2
               className="mb-4 shadow text-white rounded p-2 "
               style={{
-                backgroundColor: "#74b6cd",
+                backgroundColor: "#6bc069",
                 "font-family": "cursive",
                 "font-size": "1.5rem",
               }}
@@ -114,7 +114,7 @@ function Dashboard() {
             </h3>
             <div
               className="m-3 p-3 rounded shadow rounded-3"
-              style={{ border: "2px solid #74b6cd", opacity: "0.9" }}
+              style={{ border: "2px solid #6bc069", opacity: "0.9" }}
             >
               <div className="flex-row justify-content-around">
                 {favState.map(({ _id, country, image, name, price }, index) => (
@@ -158,7 +158,7 @@ function Dashboard() {
               <div
                 key={order._id}
                 className="m-3 p-3 rounded shadow rounded-3"
-                style={{ border: "2px solid #74b6cd", opacity: "0.9" }}
+                style={{ border: "2px solid #6bc069", opacity: "0.9" }}
               >
                 <h3
                   style={{
@@ -203,7 +203,7 @@ function Dashboard() {
             </h3>
             <div
               className="m-3 p-3 rounded shadow rounded-3 "
-              style={{ border: "2px solid #74b6cd", opacity: "0.9" }}
+              style={{ border: "2px solid #6bc069", opacity: "0.9" }}
             >
               <form onSubmit={handleFormSubmit}>
                 <div className="flex-row space-between my-2">

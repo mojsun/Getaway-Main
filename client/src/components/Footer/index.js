@@ -33,12 +33,7 @@ function Footer() {
               Moji
             </a>
 
-            <a href="https://github.com/shohei-mochizuki" class="info">
-              shohei
-            </a>
-            <a href="https://github.com/shaynefw" class="info">
-              Shayne
-            </a>
+           
           </ul>
         </div>
         <div>

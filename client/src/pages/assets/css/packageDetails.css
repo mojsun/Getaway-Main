@@ -7,7 +7,7 @@
   padding: 50px;
   background-color: white;
   border-radius: 5px;
-  border: 1px solid #74b6cd;
+  border: 1px solid #6bc069;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -46,7 +46,7 @@
 }
 
 .package-details-section .btn {
-  background-color: #74b6cd;
+  background-color: #6bc069;
   color: white;
   padding: 10px 20px;
   border-radius: 5px;
@@ -64,7 +64,7 @@
 }
 
 .package-details-header {
-  background-color: #74b6cd;
+  background-color: #6bc069;
   color: white;
   border-radius: 5px 5px 5px 5px;
   margin: 0px 16px;
