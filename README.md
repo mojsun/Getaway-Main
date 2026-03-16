@@ -16,11 +16,11 @@ Getaway is a travel agency that specializes in providing travel packages and tou
 
 [Features](#features)
 
-[How to Contribute](#how-to-contribute)
 
-[Tests](#tests)
+## Screenshot
 
-[Questions](#questions)
+![GetAway screenshot](screenshot-getaway.png)
+
 
 ## Installation
 
