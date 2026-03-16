@@ -1,13 +1,5 @@
 # GetAway
 
-Members
-
-Mozhdeh Khorashahi
-
-Shohei Mochizuki
-
-Shayne Whittle
-
 ## Description
 
 Getaway is a travel agency that specializes in providing travel packages and tours to its clients. This website should provide a user-friendly and responsive interface, which will allow customers to easily browse and book their travel packages. Additionally, the website should include features such as personalized trip recommendations based on user preferences, a blog section to provide travel tips and inspiration, and integration with popular payment gateways for secure transactions.
@@ -34,11 +26,11 @@ Getaway is a travel agency that specializes in providing travel packages and tou
 
 Project repo:
 
-https://github.com/shohei-mochizuki/getaway
+https://github.com/mojsun/Getaway-Main
 
 Project deployed link:
 
-https://getaway.herokuapp.com/
+https://getaway-travel-app-moji-67b1a19d2d2b.herokuapp.com/
 
 ## Usage
 
@@ -67,21 +59,6 @@ if the user wants to see the dashboard he/she can logs in and clicks on the dash
 
 Please see the screenshot of our website:
 
-![Alt text](client/public/images/screenshot1.jpg)
-![Alt text](client/public/images/screenshot2.jpg)
-![Alt text](client/public/images/screenshot3.jpg)
-![Alt text](client/public/images/screenshot4.jpg)
-![Alt text](client/public/images/screenshot5.jpg)
-![Alt text](client/public/images/screenshot6.jpg)
-![Alt text](client/public/images/screenshot7.jpg)
-![Alt text](client/public/images/screenshot8.jpg)
-![Alt text](client/public/images/screenshot9.jpg)
-
-## Credits
-
-To team members: shayne , Moji and shohei
-
-Also the professors from Toronto Bootcamp
 
 ## License
 
@@ -121,30 +98,4 @@ Stripe
 
 Bcrypt
 
-## How to Contribute
 
-N/A
-
-## Tests
-
-N/A
-
-## Questions
-
-If you have any questions you can reach us by our email address and our Github pages.
-
-Github pages:
-
-https://github.com/shohei-mochizuki
-
-https://github.com/mojsun
-
-https://github.com/shaynefw
-
-email address:
-
-shohei.mochizuki.jp@gmail.com
-
-m.khorashahi7@gmail.com
-
-shaynefw@gmail.com
